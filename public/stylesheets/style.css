@@ -1,0 +1,23 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  color: blue;
+}
+
+a {
+  color: #00B7FF;
+}
+
+img, svg {
+  vertical-align: middle;
+  width: 50px;
+}
+::after, ::before {
+  box-sizing: border-box;
+  background-color: rgb(241, 241, 255);
+}
+.box{
+  box-sizing: 20px;
+  width: 20px;
+  height: 20px;
+}
